@@ -1,0 +1,2 @@
+# tiendamag
+practicas y otros
